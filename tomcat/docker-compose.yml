@@ -1,0 +1,12 @@
+version: "3"
+ 
+services:
+  tomcat:
+    image: tomcat:8.5
+    ports:
+      - 8080:8080
+    container_name: tomcat
+    volumes:
+      -  
+    environment:
+    restart: always

@@ -1,5 +1,5 @@
 version: "3"
-#fixme  Clone openIM Server project before using docker-compose,project address：https://github.com/OpenIMSDK/Open-IM-Server.git
+ 
 services:
   mysql:
     image: mysql:5.7
@@ -11,5 +11,5 @@ services:
       - ./db/mysql/data:/var/lib/mysql
       - /etc/localtime:/etc/localtime
     environment:
-      MYSQL_ROOT_PASSWORD: TEST
+      MYSQL_ROOT_PASSWORD: SSYY001
     restart: always
