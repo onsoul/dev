@@ -22,3 +22,7 @@ Docker 开发环境处理
 - 3.ustc https://docker.mirrors.ustc.edu.cn
 - 4.中国科技大学 https://docker.mirrors.ustc.edu.cn
 - 5.阿里云容器 生成自己的加速地址,登录：cr.console.aliyun.com
+
+## 送杯咖啡
+
+<img src="http://file.n2book.com/pay.jpeg" width="30%">
